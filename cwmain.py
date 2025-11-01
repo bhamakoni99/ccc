@@ -28,7 +28,7 @@ os.makedirs("./downloads", exist_ok=True)
 
 bot = Client(
     "CW",
-    bot_token="8450499510:AAF-Hil0GQFPAWkVXdMvmqh4JIfYLGJER9M",
+    bot_token="8577663722:AAFNvFL_3sFKZZ_HroHelBDN91m6CSjrkGw",
     api_id=26375665,
     api_hash= "568839157ce65f4d3a91647f022b6737"
 )
